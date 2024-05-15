@@ -1,0 +1,28 @@
+User-agent: *
+Disallow: /wp-admin
+
+Disallow: /blog/feature/
+Disallow: /downloads/somebody-digital.pdf
+Disallow: /videos/
+Disallow: /blog/tag/
+Disallow: /blog/category/
+Disallow: /search/
+Disallow: /campaign/
+Disallow: /de/campaign/
+Disallow: /es/campaign/
+Disallow: /feed/
+Disallow: /feed/$
+Disallow: /comments/feed
+Disallow: */feed
+Disallow: */feed$
+Disallow: /?feed=
+
+Sitemap: https://vwo.com/sitemap.xml
+Sitemap: https://vwo.com/page-sitemap.xml
+Sitemap: https://vwo.com/case-studies-sitemap.xml
+Sitemap: https://vwo.com/ebook-sitemap.xml
+Sitemap: https://vwo.com/webinars-sitemap.xml
+Sitemap: https://vwo.com/blog/post-sitemap.xml
+Sitemap: https://vwo.com/product-updates/sitemap_index.xml
+Sitemap: https://vwo.com/blog/sitemap_index.xml
+Sitemap: https://vwo.com/blog/category-sitemap.xml

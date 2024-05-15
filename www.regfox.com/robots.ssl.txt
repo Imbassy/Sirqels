@@ -1,0 +1,11 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.regfox.com/sitemap.xml
+
+Host: www.regfox.com
+
+User-Agent: Googlebot
+Allow: *.js
+Allow: *.css
+
+Sitemap: https://www.regfox.com/sitemap.xml

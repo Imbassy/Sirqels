@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /preview
+Disallow: /browser
+Disallow: /_functions
+Disallow: /_templates
+Allow: /_templates/jake/css/min
+Allow: /_templates/jake/js/min
+Disallow: /pt/pt
+Disallow: /pt/es
+Disallow: /es/pt
+Disallow: /es/es
+Disallow: /fr
+Disallow: /ita
+Disallow: /deu
+Disallow: /rss
+Disallow: /index.php
+
+Sitemap: https://www.duda.co/sitemap.xml

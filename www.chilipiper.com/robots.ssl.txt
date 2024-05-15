@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.chilipiper.com/sitemap.xml
+
+Sitemap: http://www.chilipiper.com/sitemap.xml

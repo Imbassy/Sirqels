@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+Sitemap: https://shipwell.com/sitemap.xml
+
+User-Agent: Googlebot
+Allow: *.js
+Allow: *.css

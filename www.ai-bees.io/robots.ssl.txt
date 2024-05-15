@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /downloads/
+Disallow: /blog-tags/
+Disallow: /category/
+Disallow: /*/script.js
+Disallow: /*/stylesheet.css
+Disallow: /script.js
+Disallow: /stylesheet.css
+Disallow: /ads.txt
+Disallow:/.well-known
+Disallow:/favicon.ico
+
+Sitemap: https://www.ai-bees.io/sitemap.xml

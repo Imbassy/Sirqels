@@ -1,0 +1,11 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.joinslash.com/sitemap.xml
+
+Host: www.joinslash.com
+
+User-Agent: Googlebot
+Allow: *.js
+Allow: *.css
+
+Sitemap: https://www.joinslash.com/sitemap.xml

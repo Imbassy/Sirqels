@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /thankyou/
+Disallow: /new-homepage/
+Sitemap: https://www.apexure.com/sitemap.xml

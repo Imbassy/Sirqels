@@ -1,0 +1,11 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /
+Allow: /$
+Allow: /api/share/og/*
+Allow: /g/*
+Allow: /share/*
+Allow: /images/*
+Allow: /auth/*
+Disallow: /auth/logout
+Allow: /gpts$

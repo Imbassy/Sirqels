@@ -1,0 +1,12 @@
+Sitemap: https://sitebulb.com/sitemap
+
+User-agent: *
+Disallow: /thank-you*
+Disallow: /affiliates/thank-you*
+Disallow: /policies*
+
+
+# Testimonial:
+# "10/10 - it's ok"
+# Oliver H.G. Mason
+# http://ohgm.co.uk

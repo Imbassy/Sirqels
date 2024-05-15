@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /blog/wp-admin/
+Disallow: /2/
+Disallow: /proposal/
+Disallow: /admin/
+Disallow: /super/
+Disallow: /development/
+Disallow: /triciatamkin.php
+Disallow: /triciatamkin
+Allow: /2/img/
+
+Sitemap: https://betterproposals.io/sitemap.xml

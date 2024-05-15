@@ -1,0 +1,35 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /404
+Disallow: /500
+Disallow: /auth
+Disallow: /embed/*
+Disallow: /temporary_marketing_proxy/*
+Disallow: /forgot
+Disallow: /internal/*
+Disallow: /msa
+Disallow: /shr*
+Disallow: /sso/login
+Disallow: /tbl*
+Disallow: /?try=*
+Disallow: /*?referralCode=*
+Disallow: /?utm_source=*
+Disallow: /cookie-policy/*
+Disallow: /tos/*
+Disallow: /privacy/*
+
+# Host
+Host: https://www.airtable.com
+
+# Sitemaps
+Sitemap: https://www.airtable.com/sitemap.xml
+Sitemap: https://www.airtable.com/developers_sitemap.xml
+Sitemap: https://www.airtable.com/main_sitemap.xml
+Sitemap: https://www.airtable.com/templates_sitemap.xml
+Sitemap: https://www.airtable.com/universe_sitemap.xml
+Sitemap: https://www.airtable.com/ch-articles_sitemap.xml
+Sitemap: https://www.airtable.com/compare_sitemap.xml
+Sitemap: https://www.airtable.com/customer-stories_sitemap.xml
+Sitemap: https://www.airtable.com/guides_sitemap.xml
+Sitemap: https://www.airtable.com/videohub-sitemap.xml

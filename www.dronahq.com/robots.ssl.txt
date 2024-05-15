@@ -1,0 +1,8 @@
+﻿User-agent: *
+Disallow:/wp-admin/
+
+Disallow:/tag/* 
+
+Sitemap: https://www.dronahq.com/sitemap_index.xml
+Sitemap: https://www.dronahq.com/templateintegrations.xml
+

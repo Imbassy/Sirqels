@@ -1,0 +1,1527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+>
+  <url>
+    <loc
+      >https://www.airtable.com/videos/quickstart-airtable-ai/airtable-ai-summarize</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/5OOdP0880Fw1AyklU3esz4/1756825868c36936d4387ce632795b4f/Airtable_AI_-_Summarize_-_Thumbnail.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/brbc02tsf3</video:content_loc
+      >
+      <video:description
+        >Airtable AI is designed to help you extract key insights from various
+        types of content, whether it&#39;s summarizing meeting notes, feedback,
+        or automating summaries for regular updates, Airtable's AI can
+        streamline your workflow.</video:description
+      >
+      <video:title>Airtable AI: Summarize and extract insights</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/quickstart-airtable-ai/airtable-ai-categorize</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/16HtMkIbt740T40DQly4U1/57c70238b2bb88c03d500057f963e5c9/Airtable_AI_-_Categorize_-_Thumbnail.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/1mqzeuixtq</video:content_loc
+      >
+      <video:description
+        >Airtable AI includes powerful capabilities designed to streamline how
+        you categorize, organize, and interpret data. From automating
+        categorization of records, to integrating with third party services for
+        enhanced workflows.</video:description
+      >
+      <video:title>Airtable AI: Categorize information</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/quickstart-airtable-ai/airtable-ai-route</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/11tFpVbl5BWTqEcJCnmWbM/bb8792501b55233fdcf2e0598097acdc/Airtable_AI_-_Route_-_Thumbnail.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/ib7cjtnowa</video:content_loc
+      >
+      <video:description
+        >Airtable AI is designed to enhance efficiency and clarity within your
+        operations by intelligently linking records. Whether it&#39;s directing
+        customer feedback to the right team or connecting project tasks with
+        responsible individuals, every piece of information finds its rightful
+        place.</video:description
+      >
+      <video:title>Airtable AI: Route work in progress</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/quickstart-airtable-ai/airtable-ai-generate</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/18FKqMMCiSDa1Q46OnTxLQ/e6d12ebcec059d58b5c5ccb9fa18f98c/Airtable_AI_-_Generate_-_Thumbnail.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/y3xrht5tj2</video:content_loc
+      >
+      <video:description
+        >Airtable AI can help redefine how you automate and personalize content
+        creation with it&#39;s powerful generate content feature, which will
+        elevate your projects and streamline your workflows.</video:description
+      >
+      <video:title>Airtable AI: Generate drafts</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/quickstart-airtable-ai/airtable-ai-translate</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/68gEwyJPZrewpWP5ofSxjo/af4355d08458cc1adf7a6b88cc395194/Airtable_AI_-_Translate_Thumbnail.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/ongs4t1obf</video:content_loc
+      >
+      <video:description
+        >Welcome to a world without language barriers brought to you by Airtable
+        AI. This video will showcase the transformative translate feature of
+        Airtable AI, designed to empower your projects with multilingual
+        capabilities.</video:description
+      >
+      <video:title>Airtable AI: Translate content</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/airtable-ai-translate</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/68gEwyJPZrewpWP5ofSxjo/af4355d08458cc1adf7a6b88cc395194/Airtable_AI_-_Translate_Thumbnail.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/ongs4t1obf</video:content_loc
+      >
+      <video:description
+        >Welcome to a world without language barriers brought to you by Airtable
+        AI. This video will showcase the transformative translate feature of
+        Airtable AI, designed to empower your projects with multilingual
+        capabilities.</video:description
+      >
+      <video:title>Airtable AI: Translate content</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/airtable-ai-summarize</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/5OOdP0880Fw1AyklU3esz4/1756825868c36936d4387ce632795b4f/Airtable_AI_-_Summarize_-_Thumbnail.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/brbc02tsf3</video:content_loc
+      >
+      <video:description
+        >Airtable AI is designed to help you extract key insights from various
+        types of content, whether it&#39;s summarizing meeting notes, feedback,
+        or automating summaries for regular updates, Airtable's AI can
+        streamline your workflow.</video:description
+      >
+      <video:title>Airtable AI: Summarize and extract insights</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/airtable-ai-categorize</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/16HtMkIbt740T40DQly4U1/57c70238b2bb88c03d500057f963e5c9/Airtable_AI_-_Categorize_-_Thumbnail.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/1mqzeuixtq</video:content_loc
+      >
+      <video:description
+        >Airtable AI includes powerful capabilities designed to streamline how
+        you categorize, organize, and interpret data. From automating
+        categorization of records, to integrating with third party services for
+        enhanced workflows.</video:description
+      >
+      <video:title>Airtable AI: Categorize information</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/airtable-ai-route</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/11tFpVbl5BWTqEcJCnmWbM/bb8792501b55233fdcf2e0598097acdc/Airtable_AI_-_Route_-_Thumbnail.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/ib7cjtnowa</video:content_loc
+      >
+      <video:description
+        >Airtable AI is designed to enhance efficiency and clarity within your
+        operations by intelligently linking records. Whether it&#39;s directing
+        customer feedback to the right team or connecting project tasks with
+        responsible individuals, every piece of information finds its rightful
+        place.</video:description
+      >
+      <video:title>Airtable AI: Route work in progress</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/airtable-ai-generate</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/18FKqMMCiSDa1Q46OnTxLQ/e6d12ebcec059d58b5c5ccb9fa18f98c/Airtable_AI_-_Generate_-_Thumbnail.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/y3xrht5tj2</video:content_loc
+      >
+      <video:description
+        >Airtable AI can help redefine how you automate and personalize content
+        creation with it&#39;s powerful generate content feature, which will
+        elevate your projects and streamline your workflows.</video:description
+      >
+      <video:title>Airtable AI: Generate drafts</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/admin-video-user-groups</loc>
+    <video:video>
+      <video:content_loc
+        >https://airtable.wistia.com/medias/i2ndys0mxq</video:content_loc
+      >
+      <video:description
+        >This video explains user groups in Airtable, which are used to add
+        entire teams to workspaces, bases, interfaces, or user fields with
+        consistent permission settings.</video:description
+      >
+      <video:title>Admin Overview on Managing User Groups</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/admin-video-verify-domain</loc>
+    <video:video>
+      <video:content_loc
+        >https://airtable.wistia.com/medias/oubgo20y6x</video:content_loc
+      >
+      <video:description
+        >In this video, we&#39;ll go over both why Airtable customers would want
+        to verify your domain and the process to follow in order to verify your
+        domain.</video:description
+      >
+      <video:title>Admin Overview on Domain Verification</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/admin-video-okta-sso</loc>
+    <video:video>
+      <video:content_loc
+        >https://airtable.wistia.com/medias/8bgr1fxv90</video:content_loc
+      >
+      <video:description
+        >The purpose of this video is to provide you with the visual guide for
+        setting up SSO with Okta and Airtable.</video:description
+      >
+      <video:title>Admin Overview on Okta SSO</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/admin-video-entra-id-sso</loc>
+    <video:video>
+      <video:content_loc
+        >https://airtable.wistia.com/medias/x4rvf1zkak</video:content_loc
+      >
+      <video:description
+        >The purpose of this video is to provide you with a visual guide for
+        connecting Entra ID formerly known as Azure AD with
+        Airtable.</video:description
+      >
+      <video:title>Admin Overview on Entra ID SSO</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/admin-video-entra-id-scim</loc>
+    <video:video>
+      <video:content_loc
+        >https://airtable.wistia.com/medias/zlixsf9kcc</video:content_loc
+      >
+      <video:description
+        >The purpose of this video is to provide you with the visual guide for
+        setting up SCIM user management with Entra ID.</video:description
+      >
+      <video:title
+        >Admin Overview on SCIM Configuration with Entra ID</video:title
+      >
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/admin-video-okta-scim</loc>
+    <video:video>
+      <video:content_loc
+        >https://airtable.wistia.com/medias/6btz5gkn1y</video:content_loc
+      >
+      <video:description
+        >The purpose of this video is to provide you with the visual guide for
+        setting up SCIM user management with Okta.</video:description
+      >
+      <video:title>Admin Overview on SCIM Configuration with Okta</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/admin-video-sharing-permissions-management</loc
+    >
+    <video:video>
+      <video:content_loc
+        >https://airtable.wistia.com/medias/wvguk7xnxu</video:content_loc
+      >
+      <video:description
+        >This video covers sharing workspaces, bases, and interfaces; managing
+        access and permissions; handling pending invitations; restricting
+        invitations; workspace restrictions; company-wide interface sharing;
+        viewing and adjusting user access, inherited permissions and manual
+        removal and additional user management
+        functionalities.</video:description
+      >
+      <video:title
+        >Admin Overview on Sharing and Permissions Management</video:title
+      >
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/admin-video-account-types</loc>
+    <video:video>
+      <video:content_loc
+        >https://airtable.wistia.com/medias/h9z9pzqol5</video:content_loc
+      >
+      <video:description
+        >This video covers the account types that users can have in the admin
+        panel.</video:description
+      >
+      <video:title>Admin Overview on Account Types</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/admin-video-admin-panel</loc>
+    <video:video>
+      <video:content_loc
+        >https://airtable.wistia.com/medias/03bwqod5ps</video:content_loc
+      >
+      <video:description
+        >This video covers how admins can access the admin panel and what
+        capabilities are available for managing users, groups, workspaces, and
+        global settings.</video:description
+      >
+      <video:title>Admin Overview on the Admin Panel</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/admin-video-share-links</loc>
+    <video:video>
+      <video:content_loc
+        >https://airtable.wistia.com/medias/rpqe5atlh3</video:content_loc
+      >
+      <video:description
+        >This video explains the difference between share invites and share
+        links. It covers how they work and what to be aware of when using share
+        links.</video:description
+      >
+      <video:title>Admin Overview on Share Links</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/admin-video-permissions</loc>
+    <video:video>
+      <video:content_loc
+        >https://airtable.wistia.com/medias/nui1mmbao4</video:content_loc
+      >
+      <video:description
+        >This video covers Airtable&#39;s Permission Levels and Inheritance,
+        detailing roles like Owner, Creator, Editor, Commenter, and Read Only.
+        It explores how these roles shape user access and interactions across
+        workspaces, bases, and interfaces.</video:description
+      >
+      <video:title>Admin Overview on Permissions</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/admin-video-organizations</loc>
+    <video:video>
+      <video:content_loc
+        >https://airtable.wistia.com/medias/xdz5y1bwk5</video:content_loc
+      >
+      <video:description
+        >This video explains the Airtable concept of Organizations and how it
+        relates to user management and approval methods.</video:description
+      >
+      <video:title>Admin Overview on Organizations</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/watch-a-demo</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/3JMlDmRGsXy5zPrLaOrpOh/a924c6a5f44d9c36fcc7191c95332d05/AirtableAI_1920x1080_Demo_Thumbnail.webp</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/s8xyxz3r3p</video:content_loc
+      >
+      <video:description
+        >Supercharge your company’s operations with Airtable AI. Watch this demo
+        to learn how to embed AI across your most critical workflows. Use
+        Airtable AI to uncover hidden insights, spark fresh ideas, and find new
+        ways to strengthen and accelerate impact across the
+        org.</video:description
+      >
+      <video:title>Unlock your unknown with Airtable AI</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/retail-store-ops-video</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/3JuxbtsIWEdPF4NSiNOnD4/ca6450de888f2c4c11b413a5f2dccea7/RCG_Store_operations_deck_-_Feb_2024.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/9r51k5yfla</video:content_loc
+      >
+      <video:description
+        >Leading retailers are using Airtable to power their store operations,
+        as they create in-store experiences that differentiate their brands and
+        delight consumers. Store Ops is one of the many critical business
+        processes that Airtable powers in retail, along with Merchandising,
+        Marketing &#38; Creative execution, eCommerce development, and
+        staffing.</video:description
+      >
+      <video:title>Retail Store Operations on Airtable</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/whats-new-in-two-september-2023</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/5katxGUkC56uri2OgFmENe/73f60a565d7182079b03e64a240acb21/Video__What-s_New__in_Two__-_September_2023___Airtable.jpg</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/21olhtnik4</video:content_loc
+      >
+      <video:description
+        >Save and print PDFs, update two-way syncs with an automation, and more
+        to enhance your workflows.</video:description
+      >
+      <video:title>What&#39;s New (in Two) - September 2023</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/vimeo-customer-story</loc>
+    <video:video>
+      <video:content_loc
+        >https://airtable.wistia.com/medias/hrj2x0171u</video:content_loc
+      >
+      <video:description
+        >Vimeo’s customer experience team needed to find a way to cut costs and
+        deliver on ROI. Airtable helped the team reduce tool sprawl and create
+        custom apps that grow alongside the organization.</video:description
+      >
+      <video:title
+        >How Vimeo consolidated tools and created fully custom apps</video:title
+      >
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/collaboration-with-interface-designer</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/7p7ka8bYdv5obEqSpbtFQe/c386b6f9697589821edc6becee791cc3/Demo__Streamline_collaboration_with_Interface_Designer.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/vekepl4gtw</video:content_loc
+      >
+      <video:description
+        >Supporting group work in Airtable is all about focus and clarity. This
+        Interface Designer demo demonstrates how to implement granular
+        permissions for interfaces, making collaboration in Airtable even
+        easier. In this demo, we&#39;ll show you how you can transition your
+        team's existing workflows to interfaces.</video:description
+      >
+      <video:title
+        >Demo: Streamline collaboration with Interface Designer</video:title
+      >
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/modern-marketing-teams-run-on-airtable</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/2OuMuLX0RrcVBUmBsda7Xp/76f9d0b789a4dd45936372c7efcd570c/Screenshot_2023-07-14_at_1.59.53_PM.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/2y37siqcvg</video:content_loc
+      >
+      <video:description
+        >High-velocity marketing teams run everything from campaigns to content
+        production workflows on Airtable. Our flexible platform means you can
+        build exactly what your team needs to deliver ambitious
+        outcomes.</video:description
+      >
+      <video:title>Demo: Modern marketing teams run on Airtable</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/marketing-campaign-best-practices</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/4NKk1wszWRUAg8MJnJQ71L/2ad3a287e6354f56aebc0b9f0dc4ca54/Marketing_campaign_planning_best_practices.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/14hbz58nyp</video:content_loc
+      >
+      <video:description
+        >Siloed planning in marketing teams leads to increased stress, unclear
+        priorities, and duplicative efforts. Without cross-functional input at
+        the planning stage, launching campaigns becomes much more complicated
+        and much less impactful. In this demo, you’ll learn best practices for
+        campaign planning, including how to integrate cross-team plans and
+        connect work at every level (goals, campaigns,
+        activities).</video:description
+      >
+      <video:title
+        >Demo: Marketing campaign planning best practices</video:title
+      >
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/accelerate-product-velocity-with-airtable</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/f4IilpmgCPjmWtZJL6CVT/42508c7dead649d95031d297a58b4e86/Screenshot-2023-07-14-at-2.09.49-PM.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/6v364m8zyt</video:content_loc
+      >
+      <video:description
+        >In this Airtable product demo, we walk through how teams are able to
+        connect data and workflows with a single source of truth, visualize the
+        same information in different ways, and automate work to free up time.
+        Connect use cases like customer feedback, roadmap management, and goal
+        tracking to achieve high-impact, customer-centric product
+        delivery.</video:description
+      >
+      <video:title>Demo: Accelerate product velocity with Airtable</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/automate-your-work-in-airtable</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/iWzvQ2gzCnRdh8eh2GxVh/8043fc8d51689d3467cfb1c22bc08fad/Demo__Automate_your_work_with_Airtable.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/xwvf74onr5</video:content_loc
+      >
+      <video:description
+        >From sending notifications to orchestrating cross-functional work,
+        Airtable automations are a powerful rules engine that can help you and
+        your team stay connected.  In this demo, we&#39;ll go deep on three
+        inspiring example automations, and give you the tools to build your
+        own!</video:description
+      >
+      <video:title>Demo: Automate your Work with Airtable</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/airtable-demos</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/5BWfODJNmblO837xruoxHw/edf56f4385f72cf7ace27ca400ca5a69/Demo__Automate_your_work_with_Airtable.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/xwvf74onr5</video:content_loc
+      >
+      <video:description
+        >Explore powerful features, including granular permissions for
+        interfaces, automation capabilities, support for high-velocity marketing
+        teams, and solutions for overcoming siloed planning, all designed to
+        streamline group work and boost productivity. Featured Demos: -
+        Accelerate product velocity with Airtable - Automate your work with
+        Airtable - Marketing campaign planning best practices - Modern marketing
+        teams run on Airtable - Streamline collaboration with Interface Designer
+      </video:description>
+      <video:title>Demo: Automate your work with Airtable</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/code-and-theory-customer-story</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/4eqMOlrWldC6UfeFgycaQ9/f58b80afb0175792fb82f1a206d81563/Code_and_Theory_Airtable_Customer_Story.jpeg</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/e6vqt1zwhl</video:content_loc
+      >
+      <video:description
+        >Code and Theory is a design agency that does creative brand work
+        encompassing everything from renaming the Washington Redskins to the
+        Commanders to creating CNN’s John King’s graphics on CNN. Airtable has
+        fundamentally changed the way the organization works, given them a
+        single source of truth, improving accuracy and efficiency.
+      </video:description>
+      <video:title
+        >Code and Theory saves more than 10,000 hours a year with
+        Airtable</video:title
+      >
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/whats-new-in-two-august-2023</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/4kccEzK6LAsPNr1F2G7Nav/c4a842dd5dad7fc4b0d1b79ecd869637/Video__What-s_New__in_Two__-_August_2023___Airtable.jpg</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/fzsn1jt0mw</video:content_loc
+      >
+      <video:description
+        >Get work done by sending actionable notifications via Slack, managing
+        interfaces in mobile, and finding failed automations.</video:description
+      >
+      <video:title>What&#39;s New (in Two) - August 2023</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/tool-tips-all-about-interface-layouts</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/7dbONprg4EKEpeXQSrQlwC/74fd82f5c61298b625224fc12f384bf0/Video__Tool_Tips_-_All_About_Interface_Layouts.jpg</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/ufb54jm5x6</video:content_loc
+      >
+      <video:description
+        >Getting started with Interface Designer is as simple as picking from
+        the list of predesigned layouts.</video:description
+      >
+      <video:title>Tool Tips: All About Interface Layouts</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/airtable-connected-apps-platform</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/4USIRu09vsPgmXbPoMUj6q/69b24dfb31df46ea15bcc086324d727a/Video__The_Airtable_Connected_Apps_Platform_-_A_new_way_to_connect_your_work___Airtable.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/c8nxt6w9km</video:content_loc
+      >
+      <video:description
+        >Check out our latest features and see how work can flow faster, while
+        keeping everything and everyone connected.
+      </video:description>
+      <video:title>The Airtable Connected Apps Platform</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/whats-new-in-two-july-2023</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/RQQxliR7H7BaCWKysiaL8/3c09bfa35d89a11592b4f70e84ba519e/Video__What-s_New__in_Two__-_July_2023___Airtable.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/hejybialzj</video:content_loc
+      >
+      <video:description
+        >This month we&#39;re revamping the Airtable home screen so you can find
+        your go-to apps in seconds. Plus, our new progress bar lets you see how
+        close projects are to completion with just a glance.</video:description
+      >
+      <video:title>What&#39;s New (in Two) - July 2023</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/airtable-product-teams</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/5E7FlTFMdveMapzqwUlje2/08b2f72ab3c894b6afc04db46e050ca8/Airtable_for_Product_Teams.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/hdjvmypxkx</video:content_loc
+      >
+      <video:description
+        >With Airtable, drive the greatest impact for your customers and your
+        business by connecting data and workflows across feedback management,
+        planning, roadmap prioritization, and product delivery—all in one place.
+        Aligning stakeholders around a shared vision, empowering agility during
+        times of change, and ensuring teams deliver on their goals on time.
+        Watch how today&#39;s leading product organizations utilize Airtable to
+        deliver user-centric product experiences at scale, while accelerating
+        velocity and reducing costs.</video:description
+      >
+      <video:title>Airtable for Product Teams</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/airtable-marketing-teams</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/2U9t5diEMdsg1YuhVlM2A/8777888418a493459bb24d0feeb9aa26/Airtable_for_Marketing_Teams.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/jte8m7oxkx</video:content_loc
+      >
+      <video:description
+        >With Airtable, you can multiply the impact of your Marketing department
+        by connecting deliverables, campaigns, budgets, assets, people, and more
+        — all in one place. So everyone — from execs to Content to Creative —
+        all have the information they need to deliver creative excellence and
+        high-impact campaigns. Watch how today’s high-velocity marketing teams
+        run on Airtable in this quick explainer.</video:description
+      >
+      <video:title>Airtable for Marketing Teams</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/whats-new-in-two-july-2022</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/FXDWsibWJtwt6ZrhtjYLd/643c0a6f9a8cd2c70e062faa68ab09c2/Video__What-s_New__in_Two__-_July_2022___Airtable.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/fip96zlkx3</video:content_loc
+      >
+      <video:description
+        >This month, we have a big bundle of updates for you to get your hands
+        on, from new features to manage your more complex workflows, to the
+        ability to create new records in Interface Designer.
+      </video:description>
+      <video:title>What&#39;s New (in Two) - July 2022</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/whats-new-in-two-june-2023</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/6sGHtnBv70vp0EYx5bX2K4/62e17dfa65b4c767a16f738b3a75b26e/Video__What-s_New__in_Two__-_June_2023___Airtable.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/wik6mzxhzg</video:content_loc
+      >
+      <video:description
+        >Track records across timelines, customize interface forms, and more in
+        this month&#39;s product update roundup.</video:description
+      >
+      <video:title>What&#39;s New (in Two) - June 2023</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/whats-new-in-two-april-2023</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/4xTAUHmriB0qAR5plV6VTu/e72ee8c6d042d5c1676a659b3cac0b48/Video__What-s_New__in_Two__-_April_2023___Airtable.jpg</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/cb0dsniozt</video:content_loc
+      >
+      <video:description
+        >Turn records into templates you can use again and again, add fields
+        directly to interfaces, and more this month.</video:description
+      >
+      <video:title>What&#39;s New (in Two) - April 2023</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/airtable-leadership-forum-ny2023</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/3WvqEjt9q7u9bIV0bH2Cio/2adf7b78881899fcb9f194a142676ea1/ALF_NYC_Howie_Keynote_WIDE_V2.jpg</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/kzxpdaiunm</video:content_loc
+      >
+      <video:description
+        >Howie Liu, CEO at Airtable, invites leaders to imagine a fundamentally
+        different way of operating. He envisions a world where companies can
+        confidently create and deploy powerful apps across their entire
+        organization. And where the power of AI is seamlessly integrated into
+        day-to-day workflows. We’re facing a massive wave of fresh
+        transformation, and the most urgent question facing organizations is:
+        how will you adapt?</video:description
+      >
+      <video:title>NY 2023: Airtable Leadership Forum </video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/whats-new-in-two-february-2023</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/irat2upSrIcUkvHLF6NGK/e65d6c51fe1c8d4e49343247821d2acd/Video__What-s_New__in_Two__-_February_2023___Airtable.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/arfdzdvfgy</video:content_loc
+      >
+      <video:description
+        >It’s a brand-new year, and we’re kicking it off with brand-new updates
+        to help you manage Airtable with ease and edit your apps
+        faster. </video:description
+      >
+      <video:title>What&#39;s New (in Two) - February 2023</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/whats-new-in-two-december-2022</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/4Vj0NjeUmEbs8zXQGgaFUP/dc6201c1000fc1a6a1888c54a4473c24/Video__What-s_New__in_Two__-_December_2022___Airtable.jpg</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/q0br9vlnve</video:content_loc
+      >
+      <video:description
+        >This month we’re welcoming kanban to interfaces, announcing the winners
+        of the Interface Designer contest, and more.</video:description
+      >
+      <video:title>What&#39;s New (in Two) - December 2022</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/whats-new-in-two-may-2022</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/3sDaYJ0Cngyp8QxXHVF1k8/35d8213f19195313d928622df99be3be/Video__What-s_New__In_Two__-_May_2022___Airtable.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/40scp5fihr</video:content_loc
+      >
+      <video:description
+        >There&#39;s a lot of cool and helpful stuff out this month!
+      </video:description>
+      <video:title>What&#39;s New (in Two) - May 2022 </video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/whats-new-in-two-march-2023</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/48Jf9GGoYttQL4hu5fK1YI/5645107bbd47bdfea1e27b70fdf7f704/Video__What-s_New__in_Two__-_March_2023___Airtable.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/5yfndo6aa5</video:content_loc
+      >
+      <video:description
+        >It’s even easier to build customized apps with updated Interface
+        Designer capabilities, the brand-new List View, and more. Here&#39;s all
+        that's new to Airtable this month.</video:description
+      >
+      <video:title>What&#39;s New (in Two) - March 2023</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/content-operations-template-tour</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/5lcBOXbGRPbgBIdmWj1dob/46d28c4425d04faefa5ea70a896741b5/Content_operations__Template_tour.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/yywfe329eb</video:content_loc
+      >
+      <video:description
+        >Manage deliverables, streamline approvals, orchestrate team-wide
+        campaigns, and report on outcomes with this template.</video:description
+      >
+      <video:title>Template tour: Content operations</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/build-your-ux-research-database-with-airtable</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/1ut1EoT6OFYsbdzVclcjcL/91ce2d8f3049edad69c88414623da644/Video__Build_your_UX_research_database_with_Airtable.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/ng0m1l0kf7</video:content_loc
+      >
+      <video:description
+        >No matter which product or initiative you’re working on, Airtable can
+        help you optimize your user research process. This video will show you
+        how you can use Airtable to manage participants, plan interviews,
+        organize feedback, and synthesize learnings, all in one
+        place.</video:description
+      >
+      <video:title>Build your UX research database with Airtable</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/thanks-for-everything-you-brought-to-airtable-in-2022</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/2BHrwzNEH7TRuZXr4cA4HV/eb1e12080e5550ba96f309fcb5ccfa49/Video__Thanks_For_Everything_You_Brought_to_Airtable_in_2022.webp</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/3nk0lid6jt</video:content_loc
+      >
+      <video:description
+        >2022 was another year of uncertainty. Teams returned to the office,
+        persistent inflation threatened the economic climate and disparate teams
+        faced slowdowns due to siloed data. Instead of caving under pressure,
+        the Airtable community built apps that continue to connect global teams.
+        From Dropbox increasing blog traffic by 30% to West Elm creating
+        efficiencies that save knowledge workers 85 hours a week. Here’s a look
+        back at everything you brought to Airtable in 2022.
+      </video:description>
+      <video:title
+        >Thanks For Everything You Brought to Airtable in 2022</video:title
+      >
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/james-beard-foundation-customer-story</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/45EkF4BGOnonecrMgqEoMv/277e862062920b3440f19d8742c68eb7/Video__James_Beard_Foundation__amp__Airtable__A___smarter_way_to_serve_the_food_community.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/vp6oug51cl</video:content_loc
+      >
+      <video:description
+        >James Beard Foundation, a non-profit organization dedicated to
+        enriching American food culture, uses Airtable for content planning and
+        program management.</video:description
+      >
+      <video:title
+        >James Beard Foundation &#38; Airtable: A smarter way to serve the food
+        community</video:title
+      >
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/baker-hughes-customer-story</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/1jFDTGcFsP8KNJXJwwrnBU/4c5995c48184c407c15281f7bdb845e4/AT2104_BakerHughes_20210910_HERO_MGFX_FINAL.jpg</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/p8n4bj992z</video:content_loc
+      >
+      <video:description
+        >In this customer story featuring Baker Hughes, VP of Global
+        Communications, Stephanie Hartgrove, describes how Airtable supported
+        their Communications team through a series of company and industry-wide
+        changes.
+      </video:description>
+      <video:title>Baker Hughes: A transformation story </video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/west-elm-customer-story-2</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/srYTLi1rDZE6cb1n7brAf/708397d266e744540673d590ac114bf4/AT.2401B_Airtable_WE_HERO_16x9.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/ieb9ky5j2p</video:content_loc
+      >
+      <video:description
+        >Korin, VP of Creative Operations needed a flexible tool that would help
+        her team scale the brand, triple their inventory, and compete with
+        brands like Pottery Barn. When she started all inventory was manually
+        entered into Excel, and teams were using different tools like Basecamp
+        or DropBox to upload photos and digital assets. Now they’re using
+        Airtable to track every SKU, photo, and connect teams across 5
+        departments it&#39;s saving them 85 hours every week.
+      </video:description>
+      <video:title>West Elm creates a sense of home with Airtable </video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/equinox-customer-story</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/74zf3lRahv20wxjvjz1Kru/66865f0ee82547ecfcf7250744b5ec43/AT2401B_Airtable_EQ_HERO_16x9.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/t3r8xklod7</video:content_loc
+      >
+      <video:description
+        >Lindsey Puccio, a publishing manager was hired to help launch
+        Equinox&#39;s digital fitness app, but the pandemic got in the way of
+        their progress. While working from home, despite initial resistance to
+        Airtable, she dove in. Before Airtable they were using Skylark and
+        manually uploading classes and manually generating playlists. One class
+        took 8 hours. Now they're bulk publishing hundreds of classes in a
+        matter of minutes. Within a few short months she taught her whole team
+        to use Airtable and improved Equinox's time to publish by 400%.
+      </video:description>
+      <video:title
+        >Equinox publishes content 400% faster with Airtable</video:title
+      >
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/airtable-community-daretable</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/39i9Nc5I1UMMh1t8bxGC3C/daf9fce16a3a21151448a05e3cdc25fd/Video__The_Airtable_Community___Daretable___Airtable.jpg</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/k2d7c1izz3</video:content_loc
+      >
+      <video:description
+        >The second edition of Airtable&#39;s unofficial user conference
+        Daretable happened in Austin. We talked to some community members to
+        understand what the Airtable community means to them. A special thank
+        you to Kamille Parks, Kuovonne, Chris Dancy, and Alli Alosa for starring
+        in this video!
+      </video:description>
+      <video:title>The Airtable Community at Daretable</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/taylor-guitars-customer-story</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/7HM2L89W5AOowkOIAwl0Xf/5cea8abd47133472712c82e08bbd6918/Taylor_Guitars_Customer_Story_V9.jpg</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/vln6ad4180</video:content_loc
+      >
+      <video:description
+        >Matt is revolutionizing the way Taylor Guitars amplifies its messaging
+        to the world. His comprehensive content calendar created unparalleled
+        visibility into campaigns, budgeting, and increased publishing times.
+        What Matt was able to create in Airtable worked so well it quickly
+        spread to the rest of the company. Taylor Guitars now uses Airtable for
+        manufacturing, apparel, accessories, budget forecasting, artist
+        relationship management and much more. Taylor Guitars went from working
+        in silos to a connected cross functional team. Their high level of
+        sophistication in Airtable enabled them to create 343 automations giving
+        them time back to work on much more meaningful nuanced tasks. It
+        centralized their workflow, improved their time to publish and enabled
+        teams to be more collaborative which has been essential during times of
+        remote work.
+      </video:description>
+      <video:title
+        >Taylor Guitars brings more music into the world with
+        Airtable</video:title
+      >
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/streamline-collaboration-with-interface-designer</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/Yu9WJs35JAns0hOwwspwR/cdd6a1fcf799b877bc9eb6ed835b396f/Demo__Streamline_collaboration_with_Interface_Designer.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/vekepl4gtw</video:content_loc
+      >
+      <video:description
+        >With Airtable&#39;s Interface Designer, you can build powerful,
+        customized apps that streamline collaboration for you, your team, and
+        even across your organization.</video:description
+      >
+      <video:title>Collaborate with Interface Designer Preview</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/explore-airtable-automations</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/3hIJrPMj3gcLbPaTOG1FaV/adcaf7f6677e6a412c2192a48055b1cf/Preview__Explore_Airtable_Automations.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/evmtvooli4</video:content_loc
+      >
+      <video:description
+        >With Airtable automations, you can automate repetitive tasks, create
+        streamlined workflows, and integrate easily with other key
+        tools.</video:description
+      >
+      <video:title>Explore Airtable Automations Preview</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/make-reviews-and-approvals-easy-in-aritable</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/57VDsjvPHhV0Q5vgR068AK/51eb28e2ca9f0361f9846ccf4cf9ac2d/Video__Tool_Tips__Make_Reviews__amp__Approvals_Easy___Airtable.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/yg3gygwkxw</video:content_loc
+      >
+      <video:description
+        >Reviews and approvals are key to many workflow. In this Tool Tip, we
+        cover how to make reviews and approvals easy using views, automations
+        and interfaces in Airtable.
+      </video:description>
+      <video:title>Tool Tips: Make Reviews &#38; Approvals Easy</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/how-to-use-airtable-to-stay-in-the-loop</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/DoHIZxCknTMLwCMPF05Zc/696475c75f39a5f2db64a12b2cca3784/Video__Tool_Tips__Stay_In_The_Loop___Airtable.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/pl7ueicvv8</video:content_loc
+      >
+      <video:description
+        >This Tool Tips video dives into the ways you can keep stakeholders in
+        the loop about changes to your data.</video:description
+      >
+      <video:title>Tool Tips: Stay In The Loop</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/prep-your-airtable-base-for-collaborators</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/1P1NLzXen8Aqau1QkQnoud/c35fb6d37580d5bb80446bf8917c4ad7/Video__Tool_Tips__Prep_Your_Base_for_Collaborators.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/w4itcr55ld</video:content_loc
+      >
+      <video:description
+        >Make your base easy to use and navigate for collaborators. In this Tool
+        Tip, we show you how to create a base guide and descriptions so users
+        have the info they need. Then, we&#39;ll walk you through creating
+        customized interfaces so collaborators can start working with your data.
+      </video:description>
+      <video:title>Tool Tips: Prep Your Base for Collaborators</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/how-to-use-airtable-computed-fields</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/185hoI2bS63aRyvc3Dh6hF/dd00dce07ead9cd7f8df7c13f45e2386/Video__Tool_Tips__Computed_Fields__amp__How_to_Use_Them___Airtable.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/bu9wgcopoe</video:content_loc
+      >
+      <video:description
+        >In this Tool Tip, we introduce computed fields and explore how teams
+        can use them to get quick insight into their records.
+      </video:description>
+      <video:title
+        >Tool Tips: Computed Fields &#38; How to Use Them</video:title
+      >
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/how-to-use-airtable-advanced-computed-fields</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/6cH28KkLJ7OsPDabSXMhKI/0e54088039fd788d0ed3a6c22b95e5b9/Video__Tool_Tips__How_to_Use_Advanced_Computed_Fields___Airtable.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/b6yf4r2gzu</video:content_loc
+      >
+      <video:description
+        >In our latest Tool Tips video, we dive deeper into computed fields and
+        show how you can use them to perform concise calculations and create
+        actionable buttons.
+      </video:description>
+      <video:title>Tool Tips: How to Use Advanced Computed Fields</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/standardize-centralize-analyze-feedback</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/5gC59Y3V6l2x4895sCJ5Eh/b2ac7a36c84548f9afc7423fb66d5c89/Video__Workflow_Hotline__Standardize__Centralize_and_Analyze_Feedback___Airtable.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/aor5p1n4ai</video:content_loc
+      >
+      <video:description
+        >This week on the workflow hotline, we got a call from Robin, a product
+        operations manager who wants to improve how they collect feedback. Learn
+        more about Airtable for product operations:
+        https://www.airtable.com/guides/product-operations
+      </video:description>
+      <video:title
+        >Workflow Hotline: Standardize, Centralize and Analyze
+        Feedback</video:title
+      >
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/align-prioritize-share-your-roadmap</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/1RTw5SdLXbg4mNQvUrhMS0/1e8a0c0b8753f5386a58c33eb5640585/Video__Workflow_Hotline__Align__Prioritize__and_Share_Your_Roadmap.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/maefhvi5pg</video:content_loc
+      >
+      <video:description
+        >This week on the workflow hotline, we help Robin prioritize features
+        based on her company&#39;s objectives, customer feedback and team
+        effort.
+      </video:description>
+      <video:title
+        >Workflow Hotline: Align, Prioritize, and Share Your
+        Roadmap</video:title
+      >
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/how-frame-io-runs-product-ops-in-airtable</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/j78w51eOHZ4TTgDLEVwXJ/ca8c447ab745959448bfcca9b066e329/Video__How_Frame.io_Runs_Product_Operations_In_Airtable_.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/0qmpudje5a</video:content_loc
+      >
+      <video:description
+        >In this community spotlight we welcomed Caroline Vernick, Director of
+        Product &#38; Business operations at Frame.io to talk about how Frame
+        runs product sprints in Airtable.
+      </video:description>
+      <video:title
+        >How Frame.io Runs Product Operations In Airtable
+      </video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/product-launch-tracker-template-tour</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/2OCf7jxs324qb3NcXdr0c8/2ac80b77a3ba16bc1dcfb5d7244a445a/Product_launch_tracker__Template_tour.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/mnutq86wvs</video:content_loc
+      >
+      <video:description
+        >Keep track of your bill of materials, major deadlines, and get your
+        team on the same page with this product launch
+        template.</video:description
+      >
+      <video:title>Template tour: Product launch tracker</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/marketing-campaign-tracker-template-tour</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/4kxpfUPVYVOz0zbycuAUeq/065c62c917b40dc210b0219aa6fd8679/Marketing_campaign_tracking__Template_tour.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/s3kwr4cdt2</video:content_loc
+      >
+      <video:description
+        >Plan campaigns across different platforms and teams. And easily track
+        performance with this marketing campaign tracking
+        template.</video:description
+      >
+      <video:title>Template tour: Marketing campaign tracker</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/content-calendar-template-tour</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/3Q1SsRwNaWxcc5VHvdl4ta/aeba6b74c8f85c85a8a3371205963461/Content_calendar__Template_tour.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/y0o46ao9l0</video:content_loc
+      >
+      <video:description
+        >Plan, execute, and deliver content for your team—and your company—with
+        this template. Then, report on results in real time.</video:description
+      >
+      <video:title>Template tour: Content calendar</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/reimagine-your-workflows-with-interface-designer</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/5YmjUOJdD7i5XgA5DS9wEC/02ab4421078ead3d333865a88a725a5b/Interface_Designer_-_Reimagining_Your_Workflows____Airtable.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/ekl7bnx13n</video:content_loc
+      >
+      <video:description
+        >Interface Designer is now available for all Airtable users, so you can
+        drive work by taking the data in your base and turning it into dynamic
+        experiences for team members.
+      </video:description>
+      <video:title
+        >Reimagine your workflows with Interface Designer</video:title
+      >
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/whats-new-in-artable-august-2022</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/6omE1jcr4JjHxH43Z3XYR4/7c6f434610e7cae42f65159b4a62fedf/Video__What-s_new__in_two___August_2022.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/vv24p89h9y</video:content_loc
+      >
+      <video:description
+        >August 2022&#39;s product updates involve a lot of new options, from
+        four new interface buttons to the ability to relabel records in your
+        tables.</video:description
+      >
+      <video:title>What&#39;s new (in Two): August 2022 </video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/whats-new-in-artable-june-2022</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/1UbbXS4LRtJ4NMMxYk3aqh/064b9bfed50449c20ad98c30a06c3131/Video__What-s_New__in_Two__-_June_2022.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/he9nj8nk1i</video:content_loc
+      >
+      <video:description
+        >Sun&#39;s out–and so are these product updates for June. This month,
+        we're diving into document automator, more flexibility in sync, and
+        more. Plus, a special announcement at the end!</video:description
+      >
+      <video:title>What&#39;s New (in Two) - June 2022</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/whats-new-in-artable-april-2022</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/5M9Uz8Mja3Yjr6s0Jc0EYs/944898b310b3eb1421d368bcdc4454e8/Video__What-s_New__in_Two__-_April_2022___Airtable.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/7xihdvsiih</video:content_loc
+      >
+      <video:description
+        >We’ve got a steady stream of updates in April 2022, including new ways
+        to manage your team’s workload with resource allocation, upload
+        attachments to the Airtable app, and run successful
+        automations.</video:description
+      >
+      <video:title>What&#39;s New (in Two) - April 2022 </video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/whats-new-in-artable-march-2022</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/2SLLbLC8GiBR37Q4e6UWGP/03a2bb05b69210f920b4b1c130d8fdd2/Video__What-s_New__In_Two__-_March_2022___Airtable.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/1vav06h3zt</video:content_loc
+      >
+      <video:description
+        >It’s your lucky month! We’ve got new ways to spot errors in automations
+        and formulas, a new consultant directory, and more in March 2022&#39;s
+        product update roundup.</video:description
+      >
+      <video:title>What&#39;s New (in Two) - March 2022 </video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/whats-new-in-artable-february-2022</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/5iP3B9a5JNNkfIm0OMvtH0/58eb1cd445f3a297fa189047aa48b46e/Video__What-s_New__in_Two__-_February_2022___Airtable.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/uxur5s4lw7</video:content_loc
+      >
+      <video:description
+        >This month we&#39;re focusing in on updates to interface designer. You
+        can now add gallery elements to your interfaces, group items in a record
+        review layout and new options for the chart element. Learn more about
+        what's new:
+        http://blog.airtable.com/interface-designer-product-updates-1
+      </video:description>
+      <video:title>What&#39;s New (in Two) - February 2022</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.airtable.com/videos/airtable-leadership-forum</loc>
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/2VGuQsqoOjYYDsALTvYs9a/f20f0080fe22d5902ab245ba551735c1/Video__Airtable_Leadership_Forum.jpg</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/zc0dhmj4fo</video:content_loc
+      >
+      <video:description
+        >Customers, community champions, and partners came together in San
+        Francisco at the Airtable Leaders Forum to explore what’s next for our
+        organizations in a world where every industry is reinventing itself
+        through software.</video:description
+      >
+      <video:title>SF 2022: Airtable Leadership Forum</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/airtable-for-your-marketing-calendar</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/5TNK2hPUj23pVtXJpRSmnq/8cb3fb697e83da29337a9d1676a8a38a/Video__Webinar__Airtable_for_your_marketing___calendar.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/dntklrfpxe</video:content_loc
+      >
+      <video:description
+        >Managing multiple marketing campaigns with different deadlines and
+        external stakeholders can be a challenge, but Airtable is flexible
+        enough to fit the unique scope of your projects, even as they evolve. In
+        this 30 minute webinar, we&#39;ll walk you through how to address common
+        pain-points with Airtable.
+      </video:description>
+      <video:title>Airtable for your marketing calendar</video:title>
+    </video:video>
+  </url>
+
+  <url>
+    <loc
+      >https://www.airtable.com/videos/whats-new-in-two-september-2022-or-airtable</loc
+    >
+    <video:video>
+      <video:thumbnail_loc
+        >https://images.ctfassets.net/wl95ljfippl8/7uHG3QunaItV72qnxzrEBi/0fa074bb0d77d1de30a82a631928f820/Video__What-s_New__in_Two__-_September_2022___Airtable.png</video:thumbnail_loc
+      >
+      <video:content_loc
+        >https://airtable.wistia.com/medias/olgfcjhzm6</video:content_loc
+      >
+      <video:description
+        >This month we’re welcoming Kanban to interfaces, announcing the winners
+        of the Interface Designer contest, and more.</video:description
+      >
+      <video:title>What&#39;s New (in Two) - September 2022</video:title>
+    </video:video>
+  </url>
+</urlset>

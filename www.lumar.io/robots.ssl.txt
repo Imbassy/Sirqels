@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /wp-json/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /trackback/
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /*.pdf
+Disallow: */attachment/
+Disallow: */feed/
+
+Allow: /wp-includes/js/
+Allow: /wp-includes/images/
+Allow: /wp-includes/css/
+
+# Search results
+Disallow: /?s=*
+Disallow: /search/*
+
+# Other
+Disallow: /collection/
+
+Sitemap: https://www.lumar.io/sitemap_index.xml
+
+#WP Import Export Rule
+User-agent: *
+Disallow: /wp-content/uploads/wp-import-export-lite/

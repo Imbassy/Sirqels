@@ -1,0 +1,13 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.ticketspice.com/sitemap.xml
+
+Host: www.ticketspice.com
+
+User-Agent: Googlebot
+Allow: *.js
+Allow: *.css
+
+Sitemap: https://www.ticketspice.com/sitemap.xml
+
+Sitemap: https://www.ticketspice.com/sitemap.xml

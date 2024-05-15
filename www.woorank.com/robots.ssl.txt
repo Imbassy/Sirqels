@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /*/www/
+Disallow: /*/generateFreeReview$
+Disallow: /*/extensionv2/
+Disallow: /*/leadgen/
+Disallow: /*/onpage-assistant/check
+Disallow: /api
+Disallow: /*/teaser-review/
+Disallow: /*/lp-drafts/
+
+User-agent: Acunetix
+Disallow: /
+
+User-agent: Ahrefsbot
+Disallow: /*/p/
+
+Sitemap: https://www.woorank.com/sitemap.xml
+
+# <— WooRank Jobs —>
+# We're always on the lookout for smart, talented individuals to add to the WooRank team.
+# If you’re reading this then chances are that you know a thing or two about websites,
+# so why not check out our latest job opportunities - https://www.bridgeline.com/about/careers
