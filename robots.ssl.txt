@@ -1,9 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://www.sirqels.com/sitemap.xml
-
-User-Agent: Googlebot
-Allow: *.js
-Allow: *.css
-
-Sitemap: https://www.sirqels.com/sitemap.xml
