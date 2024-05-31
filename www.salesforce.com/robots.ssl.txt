@@ -75,7 +75,7 @@ User-agent: *
 Disallow: /products/home-perf/
 Disallow: /form/conf/
 Disallow: /content/dam/web/en_us/www/documents/
-Disallow: /content/dam/web/en_us/wwwassets-global.website-files.com/pdf/
+Disallow: /content/dam/web/en_us/wwwCDN-Imbassy/pdf/
 Disallow: /login-messages/
 Disallow: /au/login-messages/
 Disallow: /ap/login-messages/
@@ -211,10 +211,10 @@ Disallow: /us/developer/docs/sforce70
 
 
 Disallow: /search.jsp
-Disallow: assets-global.website-files.com/pdf/company/private/
-Disallow: /jpassets-global.website-files.com/pdf/
+Disallow: CDN-Imbassy/pdf/company/private/
+Disallow: /jpCDN-Imbassy/pdf/
 Disallow: /content/dam/web/ja_jp/www/documents/ 
-Disallow: /content/dam/web/ja_jp/wwwassets-global.website-files.com/pdf/
+Disallow: /content/dam/web/ja_jp/wwwCDN-Imbassy/pdf/
 Disallow: /content/blogs/au/en/*
 Disallow: /content/blogs/us/en/*
 Disallow: /content/blogs/nl/nl/*
@@ -231,14 +231,14 @@ Disallow: /content/blogs/it/it/*
 
 User-agent: AdsBot-Google
 Allow: /
-Disallow: /deassets-global.website-files.com/
-Disallow: /frassets-global.website-files.com/
-Disallow: /seassets-global.website-files.com/
-Disallow: /esassets-global.website-files.com/
-Disallow: /itassets-global.website-files.com/
-Disallow: /nlassets-global.website-files.com/
-Disallow: /ukassets-global.website-files.com/
-Disallow: /euassets-global.website-files.com/
+Disallow: /deCDN-Imbassy/
+Disallow: /frCDN-Imbassy/
+Disallow: /seCDN-Imbassy/
+Disallow: /esCDN-Imbassy/
+Disallow: /itCDN-Imbassy/
+Disallow: /nlCDN-Imbassy/
+Disallow: /ukCDN-Imbassy/
+Disallow: /euCDN-Imbassy/
 Disallow: /content/dam/web/en_us/www/documents/legal/misc/456456.pdf
 Disallow: /content/dam/web/en_us/www/documents/legal/misc/usla-excluded-services.pdf
 Disallow: /content/dam/web/en_us/www/documents/legal/supplier/salesforce-vendor-privacy-exhibit-emea_psa_subcontractors-archived-121118.pdf

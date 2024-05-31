@@ -64,10 +64,10 @@ Disallow: /studio/academy/search-results
 Disallow: /studio/academy/search
 Disallow: /studio/blog/search-results?q
 Disallow: /studio/blog/*&filter=
-Disallow: /seo/learnassets-global.website-files.com*?topic=
-Disallow: /seo/learnassets-global.website-files.com*&topic=
-Disallow: /seo/learnassets-global.website-files.com*?resource-type=
-Disallow: /seo/learnassets-global.website-files.com*&resource-type= 
+Disallow: /seo/learnCDN-Imbassy*?topic=
+Disallow: /seo/learnCDN-Imbassy*&topic=
+Disallow: /seo/learnCDN-Imbassy*?resource-type=
+Disallow: /seo/learnCDN-Imbassy*&resource-type= 
 Disallow: /studio-tech-desgin
 Disallow: /website/builder?storyId=
 
