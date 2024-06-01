@@ -114,8 +114,8 @@ function displayTime() {
     var e = (new Date).toLocaleTimeString("en-US", { timeStyle: "short", timeZone: "Africa/Cairo" });
     $("#cairo").html(e);  
 
-    // New York Time (Unchanged)
-    e = (new Date).toLocaleTimeString("en-US", { timeStyle: "short", timeZone: "America/New_york" });
+    // Cairo Time (Unchanged)
+    e = (new Date).toLocaleTimeString("en-US", { timeStyle: "short", timeZone: "Africa/Cairo" });
     $("#cairo").html(e);
 
     // Hurghada Time (Same timezone as Cairo)
