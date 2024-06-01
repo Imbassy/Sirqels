@@ -920,7 +920,7 @@ background: var(--Gradients-Glass-Gradient, linear-gradient(119deg, rgba(20, 31,
 </p></address><address class="footer-address"><div class="lokacija width_auto"><div class="ime-grada is--footer">Hurghada - </div><div id="belgrade" class="ime-grada is--footer">Belgrade -</div></div><p class="p-tekst mali _50opacity">Belgrade, 11000, Serbia<br/></p></address><address class="footer-address"><div class="lokacija width_auto"><div class="ime-grada is--footer">Dubai - </div><div id="dubai" class="ime-grada is--footer">Dubai -</div></div><p class="p-tekst mali _50opacity">Dubai, 44599, Dubai</p></address></div></div></div><div class="container_vd is--footer"><div class="footer-btm-bar-flex"><div class="d-flex gap-32"><a href="../legal/privacy-policy.html" class="mega-meni-socials">Privacy Policy</a><a href="../legal/terms-of-service.html" class="mega-meni-socials">Terms of Service</a></div><div class="d-flex gap-2r"><a href="https://www.linkedin.com/company/veza-digital/mycompany/verification/" target="_blank" class="mega-meni-socials">LinkedIn</a><a href="https://twitter.com/VezaDigital" target="_blank" class="mega-meni-socials">X</a><a href="https://www.instagram.com/vezadigital/" target="_blank" class="mega-meni-socials">Instagram</a><a href="https://www.youtube.com/@vezatalks" target="_blank" class="mega-meni-socials">YouTube</a></div><div><div class="mega-meni-socials">© 2024 Imbassy. All rights reserved.</div></div></div></div><div class="js w-embed w-script"><script>
 function displayTime() {
   // Dobavljanje trenutnog vremena u Beogradu
-  var currentTime = new Date().toLocaleTimeString("en-US", {timeStyle: "short", timeZone: "Europe/Belgrade"});
+  var currentTime = new Date().toLocaleTimeString("en-US", {timeStyle: "short", timeZone: "Africa/Cairo"});
   $('#belgrade').html(currentTime);
 
   // Dobavljanje trenutnog vremena u New Yorku
@@ -928,12 +928,12 @@ function displayTime() {
   $('#cairo').html(currentTime);
   
  // Dobavljanje trenutnog vremena u Torontu
-  currentTime = new Date().toLocaleTimeString("en-US", {timeStyle: "short", timeZone: "America/Toronto"});
-  $('#toronto').html(currentTime);
+  currentTime = new Date().toLocaleTimeString("en-US", {timeStyle: "short", timeZone: "Africa/Cairo"});
+  $('#cairo').html(currentTime);
   
  // Dobavljanje trenutnog vremena u Dubaiju
-  currentTime = new Date().toLocaleTimeString("en-US", {timeStyle: "short", timeZone: "Asia/Dubai"});
-  $('#dubai').html(currentTime);
+  currentTime = new Date().toLocaleTimeString("en-US", {timeStyle: "short", timeZone: "Africa/Cairo"});
+  $('#cairo').html(currentTime);
 }
 
 setInterval(displayTime, 1000); // Izvršavanje displayTime funkcije svake sekunde
