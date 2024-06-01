@@ -1,9 +1,9 @@
 User-agent: *
 Disallow:
-Sitemap: https://www.vezatalks.com/sitemap.xml
+Sitemap: https://www.imbassy.com/sitemap.xml
 
 User-Agent: Googlebot
 Allow: *.js
 Allow: *.css
 
-Sitemap: https://www.vezatalks.com/sitemap.xml
+Sitemap: https://www.imbassy.com/sitemap.xml
