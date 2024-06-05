@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: login.gratadata.com
-
-Sitemap: https://grata.com/sitemap.xml

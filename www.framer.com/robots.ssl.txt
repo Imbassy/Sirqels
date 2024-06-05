@@ -1,7 +1,0 @@
-User-Agent: *
-Allow: /
-Disallow: /projects
-Disallow: /share
-Disallow: /api-proxy
-
-Sitemap: https://www.framer.com/sitemap.xml

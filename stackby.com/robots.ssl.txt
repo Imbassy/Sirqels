@@ -1,7 +1,0 @@
-User-agent: *
-Disallow: /dashboard
-Disallow: /embed
-Disallow: /form
-Disallow: /invite/r/ 
-
-Sitemap: https://stackby.com/sitemap.xml

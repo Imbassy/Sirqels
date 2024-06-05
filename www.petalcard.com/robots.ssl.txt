@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /social-media-previews/
-
-Sitemap: https://www.petalcard.com/sitemap.xml

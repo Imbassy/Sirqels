@@ -1,9 +1,0 @@
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow: /wp-admin/admin-ajax.php
-crawl-delay: 50
-
-Sitemap: https://mycodelesswebsite.com/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK

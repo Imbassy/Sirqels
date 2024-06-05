@@ -1,5 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://www.jasper.ai/sitemap.xml
-
-Sitemap: https://www.jasper.ai/sitemap.xml

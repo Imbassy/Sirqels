@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /lp/
-
-# Sitemap
-Sitemap: https://clutch.co/sitemap.xml

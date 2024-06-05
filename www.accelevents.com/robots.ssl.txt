@@ -1,5 +1,0 @@
-User-Agent: *
-Disallow: /e/*/A/*
-Disallow: /e/*/R/*
-Disallow: /e/*/C/*
-Sitemap: https://www.accelevents.com/sitemap.xml

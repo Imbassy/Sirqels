@@ -1,9 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://www.imbassy.com/sitemap.xml
-
-User-Agent: Googlebot
-Allow: *.js
-Allow: *.css
-
-Sitemap: https://www.imbassy.com/sitemap.xml

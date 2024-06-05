@@ -1,8 +1,0 @@
-User-agent: *
-Disallow: /internal/
-Disallow: /partners/cloud-sales-engine/
-Disallow: /rep/
-Disallow: /refer-a-friend/
-Disallow: /features/crm-integration/
-Disallow: /hubdo/
-Disallow: /battlecards/

@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://fireflies.ai/sitemap.xml
-Sitemap: https://www.fireflies.ai/sitemap.xml
