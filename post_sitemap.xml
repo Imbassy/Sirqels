@@ -303,8 +303,7 @@
 		<video:video>
 		<video:content_loc>https://imbassy.com/Imbassy-3d.webm</video:content_loc>
 		</video:video>
-	</url>
-	<url>
+
 		<loc>https://imbassy.com/saas-growth-marketing/digital-advertising</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
@@ -1737,8 +1736,6 @@
 		<video:video>
 		<video:content_loc>https://imbassy.com/assets-global.website-files.com/65f43207d485843526415f76/663e18208ef53b0baf284073_Comp 1_1-transcode.webm</video:content_loc>
 		</video:video>
-	</url>
-	<url>
 		<loc>https://imbassy.com/webflow-agency/webflow-seo.html</loc>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
