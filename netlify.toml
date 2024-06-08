@@ -2,3 +2,15 @@
   for = "/*"  
   [headers.values]
     Access-Control-Allow-Origin = "*" 
+
+[[plugins]]
+  package = "@netlify/plugin-image-optim"
+  [plugins.inputs]
+    quality = 80
+    maxWidth = 1200
+    maxHeight = 800
+
+[[plugins]]
+  package = "netlify-plugin-minify-html"
+  [plugins.inputs]
+    html-minifier-options = "--collapse-whitespace --remove-comments"
