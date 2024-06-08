@@ -10,61 +10,63 @@
 
     <script type="application/ld+json">
     {
-      "@context": "https://schema.org",
-      "@type": "ContactPage",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://www.imbassy.com/contact"
-      },
-      "about": {
-        "@type": "Organization",
-        "name": "Imbassy",
-        "url": "https://www.imbassy.com",
-        "logo": "https://www.imbassy.com/Imbassy_logo_for_schema.jpg"
-      },
-      "description": "Get in touch with Imbassy easily using our convenient contact form. We're here to answer your questions and help you with your needs."
+        "@context": "https://schema.org",
+        "@type": "ContactPage",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.imbassy.com/contact"
+        },
+        "about": {
+            "@type": "Organization",
+            "name": "Imbassy",
+            "url": "https://www.imbassy.com/",  
+            "logo": {
+                "@type": "ImageObject",  
+                "url": "https://www.imbassy.com/Imbassy_logo_for_schema.jpg"  
+            }
+        },
+        "description": "Get in touch with Imbassy easily using our convenient contact form. We're here to answer your questions and help you with your needs."
     }
     </script>
 
     <script type="application/ld+json">
     {
-      "@context": "https://schema.org",
-      "@type": "LocalBusiness",
-      "name": "Imbassy",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Hurghada",
-        "addressLocality": "Red Sea",
-        "postalCode": "84517",
-        "addressCountry": "Egypt"
-      },
-      "telephone": "+201000068730",  
-      "email": "hello@imbassy.com"  
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "Imbassy",
+        "image": "https://www.imbassy.com/Imbassy_logo_for_schema.jpg", 
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Hurghada",
+            "addressLocality": "Red Sea",
+            "postalCode": "84517",
+            "addressCountry": "Egypt"
+        },
+        "telephone": "+20 100 006 8730", 
+        "email": "hello@imbassy.com"
     }
     </script>
 
-  <style>
-        /* ... (your existing styles) ... */
-    
+    <style>
         .airtable-embed-container {
-          position: fixed; /* Ensure the container covers the entire viewport */
-          top: 0;
-          left: 0;
-          width: 100%;
-          height: 100%;
-          z-index: 1000; /* Optional: Ensure the form appears above other elements */
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 1000;
         }
-    
         .airtable-embed {
-          width: 100%;
-          height: 100%;
-          border: none; /* Remove default iframe border */
+            width: 100%;
+            height: 100%;
+            border: none;
         }
-      </style></head>
+    </style>
+</head>
 <body>
 
     <div class="airtable-embed-container">
-      <iframe class="airtable-embed" src="https://airtable.com/embed/appPdzHRmxvmoDKim/pagHEhypmauB3wnCN/form" frameborder="0" onmousewheel="" allowfullscreen=""></iframe>
+        <iframe class="airtable-embed" src="https://airtable.com/embed/appPdzHRmxvmoDKim/pagHEhypmauB3wnCN/form" frameborder="0" onmousewheel="" allowfullscreen=""></iframe>
     </div>
 
 </body>
