@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /template/
+Disallow: /design/
+Allow: /dashboard/login
+Allow: /dashboard/signup
+Disallow: /dashboard/
+Allow: /api/discover/sites/
+Allow: /api/v1/marketplace/made-in-webflow/
+Disallow: /api/
+Disallow: /experiments/
+Sitemap: https://webflow.com/sitemap.xml

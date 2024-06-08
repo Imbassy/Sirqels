@@ -1,0 +1,9 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.vezafy.com/sitemap.xml
+
+User-Agent: Googlebot
+Allow: *.js
+Allow: *.css
+
+Sitemap: https://www.vezafy.com/sitemap.xml

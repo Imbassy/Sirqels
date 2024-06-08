@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+    <loc>https://www.dropbox.com/ms-sitemap-business.xml</loc>
+    </sitemap>
+    <sitemap>
+    <loc>https://www.dropbox.com/ms-sitemap-com.xml</loc>
+    </sitemap>
+    <sitemap>
+    <loc>https://www.dropbox.com/business/sitemap.xml</loc>
+    </sitemap>
+    <sitemap>
+    <loc>https://www.dropbox.com/education/sitemap.xml</loc>
+    </sitemap>
+    <sitemap>
+    <loc>https://www.dropbox.com/enterprise/sitemap.xml</loc>
+    </sitemap>
+    <sitemap>
+    <loc>https://www.dropbox.com/help/sitemap.xml</loc>
+    </sitemap>
+    <sitemap>
+    <loc>https://www.dropbox.com/news/sitemap.xml</loc>
+    </sitemap>
+    <sitemap>
+    <loc>https://www.dropbox.com/security/sitemap.xml</loc>
+    </sitemap>
+    <sitemap>
+    <loc>https://www.dropbox.com/features/sitemap.xml</loc>
+    </sitemap>
+    <sitemap>
+    <loc>https://www.dropbox.com/sitemap-warp.xml</loc>
+    </sitemap>
+    </sitemapindex>
