@@ -1,8 +1,0 @@
-[build]
-  publish = "."  # The root directory is the publish directory
-
-[[plugins]]
-  package = "@netlify/plugin-image-optim"
-    [plugins.inputs]
-    quality = 80
-    formats = ["webp", "jpeg"]
