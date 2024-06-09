@@ -50,7 +50,7 @@ setInterval(displayTime, 1000); // Izvršavanje displayTime funkcije svake sekun
   // Dobavljanje trenutnog vremena u Dubaiju
   currentTime = new Date().toLocaleTimeString("en-US", {
     timeStyle: "short",
-    timeZone: "Asia/Dubai"
+    timeZone: "Africa/Cairo"
   });
   $('#dubai').text(currentTime);
 }
