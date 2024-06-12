@@ -47,12 +47,12 @@ setInterval(displayTime, 1000); // Izvršavanje displayTime funkcije svake sekun
   });
   $('#toronto').text(currentTime);
 
-  // Dobavljanje trenutnog vremena u Dubaiju
+  // Dobavljanje trenutnog vremena u Hurghadaju
   currentTime = new Date().toLocaleTimeString("en-US", {
     timeStyle: "short",
     timeZone: "Africa/Cairo"
   });
-  $('#dubai').text(currentTime);
+  $('#Hurghada').text(currentTime);
 }
 
 setInterval(displayTime, 1000); // Izvršavanje displayTime funkcije svake sekunde */
