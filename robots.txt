@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /Digital/
-
-Sitemap: /image_sitemap.xml
-Sitemap: /sitemap.xml
-Sitemap: /post_sitemap.xml
