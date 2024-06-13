@@ -9,7 +9,7 @@ User-Agent: AhrefsBot
 Disallow: /ads/
 Disallow: /xml/
 Disallow: /berichte/
-Disallow: /blog/
+Disallow: //blog/
 Disallow: /data/
 Disallow: /download/
 Disallow: /hinweis/datenleck/
