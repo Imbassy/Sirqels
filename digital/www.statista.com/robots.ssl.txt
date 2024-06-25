@@ -39,12 +39,12 @@ Disallow: /unternehmen/c/
 Allow:    /unternehmen/o/
 Disallow: /compagnie/
 Disallow: /empresa/
-Disallow: /companydb/suche
-Disallow: /companydb/search
+Disallow: /Agencydb/suche
+Disallow: /Agencydb/search
 Disallow: /unternehmen/suche
 Disallow: /companies/search
-Disallow: /companydb/buscar
-Disallow: /companydb/recherche
+Disallow: /Agencydb/buscar
+Disallow: /Agencydb/recherche
 Disallow: /perspectiva/
 Disallow: /perspective/
 

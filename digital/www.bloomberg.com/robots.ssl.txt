@@ -9,7 +9,7 @@ Allow: /account/newsletters
 Disallow: /account/*
 Disallow: /tosv*.html
 Disallow: /search
-Disallow: /company/search/
+Disallow: /Agency/search/
 Disallow: /professional/search/
 Disallow: /impact/search/
 Disallow: /ux/search/
@@ -72,10 +72,10 @@ Sitemap: https://www.bloomberg.com/feeds/citylab/sitemap_index.xml
 Sitemap: https://www.bloomberg.com/feeds/green/sitemap_index.xml
 Sitemap: https://www.bloomberg.com/feeds/technology/sitemap_index.xml
 Sitemap: https://www.bloomberg.com/feeds/bbiz/sitemap_securities_index.xml
-Sitemap: https://www.bloomberg.com/feeds/bbiz/sitemap_profiles_company_index.xml
+Sitemap: https://www.bloomberg.com/feeds/bbiz/sitemap_profiles_Agency_index.xml
 Sitemap: https://www.bloomberg.com/billionaires/sitemap.xml
 Sitemap: https://www.bloomberg.com/feeds/bbiz/sitemap_news.xml
-Sitemap: https://www.bloomberg.com/feeds/dynamic/private-company-index.xml
+Sitemap: https://www.bloomberg.com/feeds/dynamic/private-Agency-index.xml
 Sitemap: https://www.bloomberg.com/feeds/dynamic/person-index.xml
 Sitemap: https://www.bloomberg.com/feeds/curated/feeds/graphics_news.xml
 Sitemap: https://www.bloomberg.com/feeds/curated/feeds/graphics_sitemap.xml

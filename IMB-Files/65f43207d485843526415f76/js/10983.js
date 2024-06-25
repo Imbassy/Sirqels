@@ -162,12 +162,12 @@
      "name": "Do I go with Webflow Enterprise Hosting or Webflow Business Hosting?",
      "acceptedAnswer": {
        "@type": "Answer",
-       "text": "Depending on the existing business needs. We’re pleased to tell you that all types of hosting are different but enterprise hosting unlocks a set of new features that will help your website performance at higher altitudes. Learn more about Webflow Enterprise hosting by contact us today"
+       "text": "Depending on the existing business needs. We’re pleased to tell you that all types of hosting are different but enterprise hosting unlocks a set of new features that will help your website performance at higher altitudes. Learn more about Webflow Enterprise hosting by Contact Us today"
      }
    },
    {
      "@type": "Question",
-     "name": "How does Imbassy Pricing work for Webflow services?",
+     "name": "How does Imbassy Pricing work for Webflow Republic?",
      "acceptedAnswer": {
        "@type": "Answer",
        "text": "We do custom quotes per project since all projects are slightly different in scope. On average our Enterprise-level scopes are on average ~$80,000. Whereas regular websites for start-ups and scale-ups range from $18,500 - $62,000. We also offer ancillary services which you can find on our website."
