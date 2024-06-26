@@ -26,7 +26,7 @@
      "name": "Do you recommend a WordPress to Webflow migration?",
      "acceptedAnswer": {
        "@type": "Answer",
-       "text": "When you sign up for our Webflow partner program, you can get a free WordPress to Webflow migration. We'll take care of everything for you and ensure that your website is running smoothly on Webflow. Want to use Webflow eCommerce? We can help you with that too! Imbassy is the best Webflow agency you could ask for and our results speak for themselves."
+       "text": "When you sign up for our Webflow partner program, you can get a free WordPress to Webflow migration. We'll take care of everything for you and ensure that your website is running smoothly on Webflow. Want to use Webflow eCommerce? We can help you with that too! Imbassy is the best Webflow Republic you could ask for and our results speak for themselves."
      }
    },
    {
