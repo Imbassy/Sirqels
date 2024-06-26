@@ -12,25 +12,25 @@
 
 # New redirects for folder changes
 [[redirects]]
-  from = "/webflow-agency"
-  to = "/webflow-republic"
+  from = "/webflow-agency/*"
+  to = "/webflow-republic/:splat"
   status = 301
   force = true
 
 [[redirects]]
-  from = "/saas-growth-services"
-  to = "/growth-consulate"
+  from = "/saas-growth-services/*"
+  to = "/growth-consulate/:splat"
   status = 301
   force = true
 
 [[redirects]]
-  from = "/case-studies"
-  to = "/success-missions"
+  from = "/case-studies/*"
+  to = "/success-missions/:splat"
   status = 301
   force = true
 
 [[redirects]]
-  from = "/company"
-  to = "/agency"
+  from = "/company/*"
+  to = "/agency/:splat"
   status = 301
   force = true
