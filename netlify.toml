@@ -9,3 +9,28 @@
   to = "/digital/blog/:splat"
   status = 301
   force = true
+
+# New redirects for folder changes
+[[redirects]]
+  from = "/webflow-agency"
+  to = "/webflow-republic"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/saas-growth-services"
+  to = "/growth-consulate"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/case-studies"
+  to = "/success-missions"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/company"
+  to = "/agency"
+  status = 301
+  force = true
