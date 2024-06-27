@@ -34,3 +34,8 @@
   to = "/agency/:splat"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/IMB-Files/*"
+  to = "/IMB-X-Files/*"
+  status = 301!
