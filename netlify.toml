@@ -38,4 +38,4 @@
 [[redirects]]
   from = "/IMB-Files/*"
   to = "/IMB-X-Files/*"
-  status = 301!
+  status = 301
