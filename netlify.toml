@@ -36,6 +36,6 @@
   force = true
 
 [[redirects]]
-  from = "/IMB-Files/*"
+  from = "/IMB-X-Files/*"
   to = "/IMB-X-Files/*"
   status = 301
