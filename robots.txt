@@ -1,4 +1,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://imbassy.com/sitemap.xml
+Sitemap: https://www.imbassy.com/sitemap.xml
+
+Sitemap: https://www.imbassy.com/post_sitemap.xml
