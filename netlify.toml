@@ -36,18 +36,13 @@
   force = true
 
 [[redirects]]
-  from = "/IMB-X-Files/*"
-  to = "/IMB-X-Files/*"
-  status = 301
-
-[[redirects]]
   from = "/IMB-X-Files/65f43207d485843526415f97/*"
-  to = "/IMB-X-Files/IMB-IMGS/:splat"
+  to = "/IMB-X-Files/The-Ambassadors-Assets/:splat"
   status = 301
   force = true
 
 [[redirects]]
   from = "/IMB-X-Files/65f43207d485843526415f76/*"
-  to = "/IMB-X-Files/The-IMB-Assets/:splat"
+  to = "/IMB-X-Files/The-IMB-Images/:splat"
   status = 301
   force = true
