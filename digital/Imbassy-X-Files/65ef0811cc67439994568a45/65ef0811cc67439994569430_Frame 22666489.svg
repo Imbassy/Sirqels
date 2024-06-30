@@ -1,4 +1,1 @@
-<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M64 0V128" stroke="#090A0B" stroke-width="8"/>
-<path d="M128 64L0 64" stroke="#090A0B" stroke-width="8"/>
-</svg>
+<svg fill="none" height="128" viewBox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg"><g stroke="#090a0b" stroke-width="8"><path d="m64 0v128"/><path d="m128 64h-128"/></g></svg>

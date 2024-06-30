@@ -1,13 +1,1 @@
-<svg width="356" height="96" viewBox="0 0 356 96" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g style="mix-blend-mode:overlay" opacity="0.3">
-<rect x="4" y="4" width="348" height="88" fill="white" fill-opacity="0.03" stroke="white"/>
-<rect x="2" y="2" width="4" height="4" fill="white" stroke="white"/>
-<rect x="350" y="2" width="4" height="4" fill="white" stroke="white"/>
-<rect x="350" y="90" width="4" height="4" fill="white" stroke="white"/>
-<rect x="176" y="90" width="4" height="4" fill="white" stroke="white"/>
-<rect x="176" y="2" width="4" height="4" fill="white" stroke="white"/>
-<rect x="350" y="45" width="4" height="4" fill="white" stroke="white"/>
-<rect x="2" y="45" width="4" height="4" fill="white" stroke="white"/>
-<rect x="2" y="90" width="4" height="4" fill="white" stroke="white"/>
-</g>
-</svg>
+<svg fill="none" height="96" viewBox="0 0 356 96" width="356" xmlns="http://www.w3.org/2000/svg"><g fill="#fff" opacity=".3" stroke="#fff"><path d="m4 4h348v88h-348z" fill-opacity=".03"/><path d="m2 2h4v4h-4z"/><path d="m350 2h4v4h-4z"/><path d="m350 90h4v4h-4z"/><path d="m176 90h4v4h-4z"/><path d="m176 2h4v4h-4z"/><path d="m350 45h4v4h-4z"/><path d="m2 45h4v4h-4z"/><path d="m2 90h4v4h-4z"/></g></svg>

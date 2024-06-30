@@ -52,3 +52,12 @@
   to = "/IMB-X-Files/The-IMB-Images/:splat"
   status = 301
   force = true
+
+[build]
+  command = "npm run build"  # Replace with your actual build command if applicable
+  publish = "public"         # Replace with your publish directory
+
+[build.processing]
+  css = { minify = true }    # Enable CSS minification
+  js = { minify = true }     # Enable JavaScript minification
+  images = { optimize = true } # Enable image optimization
