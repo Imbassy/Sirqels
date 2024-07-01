@@ -7,5 +7,5 @@ Allow: *.js
 Allow: *.css
 
 Sitemap: https://www.imbassy.com/sitemap.xml
-Sitemap: https://www.imbassy.com/post_sitemap.xml
+Sitemap: https://www.imbassy.com/XML_sitemap.xml
 Sitemap: https://www.imbassy.com/image_sitemap.xml
